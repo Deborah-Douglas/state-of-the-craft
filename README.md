@@ -1,6 +1,6 @@
 # Medill Solutions Journalism Hub Social Media Assets
 
-A one-page website where colleagues can download the graphic and video for the
+A one-page website where colleagues can download a graphic and videos for the
 **Reporting Under Pressure: State of the Craft** survey and copy ready-to-post
 captions. It's built to run on **GitHub Pages** (free hosting from GitHub).
 
